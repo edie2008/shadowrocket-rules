@@ -41,13 +41,13 @@
 ## 规则下载
 
 - **直链（DIRECT）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_direct_list.module)
+  - [https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_direct_list.module](https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_direct_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_direct_list.module)
 - **代理（PROXY）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_proxy_list.module)
+  - [https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_proxy_list.module](https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_proxy_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_proxy_list.module)
 - **屏蔽（REJECT）规则**：
-  - [https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/GMOogway/shadowrocket-rules/master/sr_reject_list.module)
+  - [https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_reject_list.module](https://raw.githubusercontent.com/edie2008/shadowrocket-rules/master/sr_reject_list.module)
   - [https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module](https://cdn.jsdelivr.net/gh/GMOogway/shadowrocket-rules@master/sr_reject_list.module)
 >每类规则提供了二个链接，一个需要代理才能访问，一个可以直接访问，请根据实际情况选择，只是jsdelivr会延迟12小时，但对于几万条的规则来说，没什么影响。
 
